@@ -33,7 +33,7 @@ With a deep understanding of both front-end and back-end technologies, I thrive 
 ### More
 
 - 🔭 I’m currently working on Creating Full Stack Applications.
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning trending technology.
 - 👯 I’m looking to collaborate on something in backend or frontend or generally anything with development.
 - 💬 Ask me about tech :)
 - 😄 Pronouns: He/Him/His
