@@ -1,5 +1,8 @@
 ### Hello, Fellow Explorer 👋
 
+Software Developer Engineer professional pursuing a Master’s degree in Computer Science and with 1.5 years of experience mainly in Full Stack Development. Experience in Java, Spring Boot, RESTful API, React, Redux and creating efficient systems.
+
+
 - 🔭 I’m currently working on Creating Full Stack Applications.
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on something in backend or frontend or generally anything with development.
