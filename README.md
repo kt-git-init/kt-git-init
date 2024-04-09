@@ -1,6 +1,6 @@
 ### Hello, Fellow Explorer 👋
 
-Software Developer Engineer professional pursuing a Master’s degree in Computer Science and with 1.8 years of experience mainly in Full Stack Development. Experience in Java, Spring Boot, RESTful API, React, Redux and creating efficient systems.
+Driven by a passion for continuous learning, I am currently pursuing a Master's degree in Computer Science, further enhancing my knowledge and staying up-to-date with the latest industry trends. My expertise lies in designing and building web applications that facilitate seamless user experiences and meet the demanding requirements of enterprise applications. I specialize in designing RESTful APIs that enable efficient communication between the front-end and back-end components of web applications.
 
 ## Skills
 - Java
