@@ -1,8 +1,8 @@
-### Hello, Fellow Explorer 👋
+## Hello, Fellow Explorer 👋
 
 Driven by a passion for continuous learning, I am currently pursuing a Master's degree in Computer Science, further enhancing my knowledge and staying up-to-date with the latest industry trends. My expertise lies in designing and building web applications that facilitate seamless user experiences and meet the demanding requirements of enterprise applications.
 
-## Skills
+### Skills
 - Java
 - C++
 - Spring Boot
@@ -12,7 +12,7 @@ Driven by a passion for continuous learning, I am currently pursuing a Master's 
 - RESTful Api
 
 
-## More
+### More
 
 - 🔭 I’m currently working on Creating Full Stack Applications.
 - 🌱 I’m currently learning Next.js
