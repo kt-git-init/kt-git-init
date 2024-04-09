@@ -1,4 +1,4 @@
-### Hello Explorer 👋
+### Hello, Fellow Explorer 👋
 
 - 🔭 I’m currently working on Creating Full Stack Applications.
 - 🌱 I’m currently learning Next.js
