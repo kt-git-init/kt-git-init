@@ -12,6 +12,8 @@ Driven by a passion for continuous learning, I am currently pursuing a Master's 
 - RESTful Api
 
 
+## More
+
 - 🔭 I’m currently working on Creating Full Stack Applications.
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on something in backend or frontend or generally anything with development.
