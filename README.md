@@ -11,6 +11,7 @@ Driven by a passion for continuous learning, I am currently pursuing a Master's 
 - JavaScript
 - RESTful APIs
 - MySQL
+- Tailwind CSS
 
 ### 💬 About Me
 Software Developer Engineer professional pursuing a Master’s degree in Computer Science and with 1.8 years of experience mainly in Full Stack Development. Experience in Java, Spring Boot, RESTful API, React, Redux and creating efficient systems.
