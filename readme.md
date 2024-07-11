@@ -3,7 +3,7 @@
 Driven by a passion for continuous learning, I am currently pursuing a Master's degree in Computer Science, further enhancing my knowledge and staying up-to-date with the latest industry trends. My expertise lies in designing and building web applications that facilitate seamless user experiences and meet the demanding requirements of enterprise applications.
 
 ### 👨🏻‍💻 Skills
-- TypeScript -- JavaScript - React - Next.js - C++ - Java - Spring Boot - RTK - RESTful APIs - MySQL - MongoDB - Tailwind CSS
+- TypeScript • JavaScript • React • Next.js • C++ • Java • Spring Boot • RTK • RESTful APIs • MySQL • MongoDB • Tailwind CSS
 
 ### 💬 About Me
 Software Developer Engineer pursuing a Master’s degree in Computer Science with 1.8 years of Full Stack Development experience. Skilled in TypeScript, React, Next.js, Java, Spring Boot, RESTful API, and Redux Toolkit, I focus on creating efficient systems.
