@@ -2,7 +2,7 @@
 
 Driven by a passion for continuous learning, I am currently pursuing a Master's degree in Computer Science, further enhancing my knowledge and staying up-to-date with the latest industry trends. My expertise lies in designing and building web applications that facilitate seamless user experiences and meet the demanding requirements of enterprise applications.
 
-### 👨🏻‍💻 Recent Project
+### 👨🏻‍💻 Recent Projects
 
 - **[Gemini](https://gemini.google.com/app)** - *React, Appwrite, Tailwind, OAuth, Context API*
   - Developed a high-accuracy replica of Google Gemini. The project includes user authentication, real-time responses from the Gemini API, and a feature to save user search history.
