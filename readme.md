@@ -35,7 +35,7 @@ With a deep understanding of both front-end and back-end technologies, I excel i
 ### 📫 How to reach me:
 - kunaltajne.contact@gmail.com
 
-### More
+### Current Updates
 
 - 🔭 I’m currently working on Creating Full Stack Applications.
 - 🌱 I’m currently learning trending technologies.
