@@ -5,7 +5,7 @@ Driven by a passion for continuous learning, I am currently pursuing a Master's 
 ### 👨🏻‍💻 Recent Project
 
 - **[Gemini](https://gemini.google.com/app)** - *React, Appwrite, Tailwind, OAuth, Context API*
-  - Developed a high-accuracy replica of Google Gemini. The project includes user authentication, real-time responses from the Gemini API, and a feature to save user search history.
+-> Developed a high-accuracy replica of Google Gemini. The project includes user authentication, real-time responses from the Gemini API, and a feature to save user search history.
 
 - **[ShopStream](https://shopstream-by-kunaltajne.vercel.app/)** - *JavaScript, React, Java, Spring Boot, Redux Toolkit, Tailwind, Stripe*
   - A full-stack e-commerce web application. Enhanced backend with Spring Boot and frontend using React and Tailwind CSS. Implemented Redux for state management and JWT for secure authentication.
