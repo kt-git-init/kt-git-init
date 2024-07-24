@@ -13,7 +13,7 @@ Driven by a passion for continuous learning, I am currently pursuing a Master's 
 - **[ShopStream](https://shopstream-by-kunaltajne.vercel.app/)** - *JavaScript, React, Java, Spring Boot, Redux Toolkit, Tailwind, Stripe*
   - A full-stack e-commerce web application. Enhanced backend with Spring Boot and frontend using React and Tailwind CSS. Implemented Redux for state management and JWT for secure authentication.
 
-- **[DoneDash](https://donedash.vercel.app/)** - *React, Next.js, MongoDB, Tailwind*
+- **[DoneDash](https://donedash.vercel.app/)** - *React, Next.js, TypeScript, MongoDB, Tailwind*
   - DoneDash is a full-stack note-taking application designed to streamline task management. Built with React, Next.js, and Tailwind CSS, it leverages MongoDB for data storage. Add, Edit, Delete, Categorize and Search notes with ease.
 
 
