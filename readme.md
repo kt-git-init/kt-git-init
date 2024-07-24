@@ -1,6 +1,6 @@
 ## Hello, Fellow Explorer 👋
 
-Driven by a passion for continuous learning, I am currently pursuing a Master's degree in Computer Science, further enhancing my knowledge and staying up-to-date with the latest industry trends. My expertise lies in designing and building web applications that facilitate seamless user experiences and meet the demanding requirements of enterprise applications.
+Driven by a passion for continuous learning, I am currently pursuing a Master's degree in Computer Science, further enhancing my knowledge and staying up-to-date with the latest industry trends. My expertise lies in designing and building web and mobile applications that facilitate seamless user experiences and meet the demanding requirements of enterprise applications.
 
 ### 👨🏻‍💻 Recent Projects
 
