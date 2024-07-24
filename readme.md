@@ -5,6 +5,7 @@ Driven by a passion for continuous learning, I am currently pursuing a Master's 
 ### 👨🏻‍💻 Recent Projects
 
 - **[MockWiz](https://mockwiz.live){:target="_blank"} ** - *React, Next.js, TypeScript*
+- [here](https://www.geeksforgeeks.org/){:target="_blank"}  
   - Developed an AI powered interview preparation tool using React, Next.js, and TypeScript. Provided a highly interactive dashboard for tracking previous interview feedback and statistics.
 
 - **[Gemini](https://gemini.google.com/app)** - *React, Appwrite, Tailwind, OAuth, Context API*
