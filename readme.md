@@ -128,12 +128,6 @@ Driven by a passion for continuous learning, I am currently pursuing a Master's 
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" style="margin: 10px;" />
   </a>
-  <a href="https://www.ruby-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40" style="margin: 10px;" />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="margin: 10px;" />
-  </a>
   <a href="https://www.sqlite.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40" style="margin: 10px;" />
   </a>
