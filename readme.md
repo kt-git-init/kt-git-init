@@ -6,6 +6,7 @@ Driven by a passion for continuous learning, I am currently pursuing a Master's 
 </div>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kt-git-init&title=Commits,Experience" /></p>
+
 ### 👨🏻‍💻 Recent Projects
 
 - **[MockWiz](https://mockwiz.live)** - *React, Next.js, TypeScript, Drizzle, Neon PostgreSQL*
