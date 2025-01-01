@@ -2,9 +2,9 @@
 
 Driven by a passion for continuous learning, I am currently pursuing a Master's degree in Computer Science (May 2025), further enhancing my knowledge and staying up-to-date with the latest industry trends. My expertise lies in designing and building web and mobile applications that facilitate seamless user experiences and meet the demanding requirements of enterprise applications.
 
-<p align="center">
+<div style="text-align: center;">
   <img src="https://github-profile-trophy.vercel.app/?username=kt-git-init&title=Commits,Experience" alt="kt-git-init" />
-</p>
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kt-git-init&" alt="kt-git-init" />  
