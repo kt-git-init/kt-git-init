@@ -32,7 +32,7 @@ Driven by a passion for continuous learning, I am currently pursuing a Master's 
 - React | Next.js | React Native | Node | Spring Boot
 - RTK | Expo | RESTful APIs | MySQL | MongoDB | Tailwind CSS
 
-<div align="center" style="text-align: center;">
+<div align="left" style="text-align: center;">
   <a href="https://appwrite.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40" style="margin: 10px;" />
   </a>
@@ -131,9 +131,6 @@ Driven by a passion for continuous learning, I am currently pursuing a Master's 
   </a>
   <a href="https://www.sqlite.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40" style="margin: 10px;" />
-  </a>
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40" style="margin: 10px;" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin: 10px;" />
