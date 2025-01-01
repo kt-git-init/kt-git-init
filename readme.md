@@ -4,7 +4,8 @@ Driven by a passion for continuous learning, I am currently pursuing a Master's 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kt-git-init&" alt="kt-git-init" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kt-git-init" alt="kt-git-init" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=kt-git-init" alt="kt-git-init" />
+  <img src="https://github-profile-trophy.vercel.app/?kt-git-init=ryo-ma&rank=S,A alt="kt-git-init" />
 </div>
 
 ### 👨🏻‍💻 Recent Projects
