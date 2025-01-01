@@ -1,5 +1,5 @@
 ## Hello, Fellow Explorer 👋
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=kt-git-init&title=Commits,Experience" /></p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=kt-git-init&title=Commits,Experience&column=2" /></p>
 
 <p>Driven by a passion for continuous learning, I am currently pursuing a Master's degree in Computer Science (May 2025), further enhancing my knowledge and staying up-to-date with the latest industry trends. My expertise lies in designing and building web and mobile applications that facilitate seamless user experiences and meet the demanding requirements of enterprise applications.</p>
 
