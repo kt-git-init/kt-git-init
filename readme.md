@@ -148,14 +148,10 @@ As an intern at Persistent Systems, I developed scalable RESTful APIs using Spri
 With a deep understanding of both front-end and back-end technologies, I excel in creating efficient, scalable web applications and value collaboration and teamwork to deliver exceptional results.
 
 ### 📫 How to reach me:
+- kunaltajne.contact@gmail.com
 <p align="left">
-  <a href="mailto:kunaltajne.contact@gmail.com">kunaltajne.contact@gmail.com</a>
-  <a href="https://linkedin.com/in/kunal-tajne" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-tajne" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/kunal_tajne" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kunal_tajne" height="30" width="40" />
-  </a>
+<a href="https://linkedin.com/in/kunal-tajne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-tajne" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kunal_tajne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kunal_tajne" height="30" width="40" /></a>
 </p>
 
 ### Current Updates
