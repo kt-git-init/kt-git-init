@@ -1,11 +1,13 @@
 ## Hello, Fellow Explorer 👋
+Driven by a passion for continuous learning, I am currently pursuing a Master's degree in Computer Science (May 2025), further enhancing my knowledge and staying up-to-date with the latest industry trends. 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kt-git-init&" alt="kt-git-init" />  
 </div>
 
-Driven by a passion for continuous learning, I am currently pursuing a Master's degree in Computer Science (May 2025), further enhancing my knowledge and staying up-to-date with the latest industry trends. My expertise lies in designing and building web and mobile applications that facilitate seamless user experiences and meet the demanding requirements of enterprise applications.
+My expertise lies in designing and building web and mobile applications that facilitate seamless user experiences and meet the demanding requirements of enterprise applications.
 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kt-git-init&title=Commits,Experience" /></p>
 ### 👨🏻‍💻 Recent Projects
 
 - **[MockWiz](https://mockwiz.live)** - *React, Next.js, TypeScript, Drizzle, Neon PostgreSQL*
