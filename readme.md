@@ -149,7 +149,7 @@ With a deep understanding of both front-end and back-end technologies, I excel i
 
 ### 📫 How to reach me:
 <p align="left">
-  <span>kunaltajne.contact@gmail.com</span>
+  <a href="mailto:kunaltajne.contact@gmail.com">kunaltajne.contact@gmail.com</a>
   <a href="https://linkedin.com/in/kunal-tajne" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-tajne" height="30" width="40" />
   </a>
