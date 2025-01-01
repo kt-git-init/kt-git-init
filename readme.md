@@ -32,7 +32,7 @@ Driven by a passion for continuous learning, I am currently pursuing a Master's 
 - React | Next.js | React Native | Node | Spring Boot
 - RTK | Expo | RESTful APIs | MySQL | MongoDB | Tailwind CSS
 
-<div align="left" style="text-align: center;">
+<div align="center" style="text-align: center;">
   <a href="https://appwrite.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40" style="margin: 10px;" />
   </a>
