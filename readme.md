@@ -5,6 +5,7 @@ Driven by a passion for continuous learning, I am currently pursuing a Master's 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kt-git-init&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kt-git-init&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kt-git-init&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ### 👨🏻‍💻 Recent Projects
