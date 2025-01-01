@@ -1,13 +1,60 @@
-# 💫 About Me:
-🔭 I’m currently working on Creating Full Stack Applications.<br>🌱 I’m currently learning trending technologies.<br>👯 I’m looking to collaborate on something in backend or frontend or generally anything with development.<br>💬 Ask me about tech :)<br>😄 Pronouns: He/Him/His<br>⚡ Fun fact: I also love blogging and SEO Optimization.
+## Hello, Fellow Explorer 👋
 
+Driven by a passion for continuous learning, I am currently pursuing a Master's degree in Computer Science (May 2025), further enhancing my knowledge and staying up-to-date with the latest industry trends. My expertise lies in designing and building web and mobile applications that facilitate seamless user experiences and meet the demanding requirements of enterprise applications.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-tajne) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kt-git-init&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kt-git-init&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kt-git-init&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 👨🏻‍💻 Recent Projects
+
+- **[MockWiz](https://mockwiz.live)** - *React, Next.js, TypeScript, Drizzle, Neon PostgreSQL*
+  - Developed an AI powered interview preparation tool using React, Next.js, and TypeScript. Provided a highly interactive dashboard for tracking previous interview feedback and statistics.
+- **[ChatGPT PDF](https://chromewebstore.google.com/detail/chatgpt-pdf-saver/dmlaldcdniomijdemigppfldkdahphib)** - *React, Next.js, TypeScript*
+  - Built a Web Broswer extension to convert ChatGPT chats to PDF in one single click.
+- **[TripEase](https://appetize.io/app/b_2sut7tyyigrdwudpa3blpjvttq?device=pixel8pro&osVersion=14.0&scale=85)** - *React Native, Expo, Firebase, Node, TypeScript*
+  - Built an AI travel planner mobile app providing users with live flight details, hotel prices, and day-to-day itineraries. Exposed API endpoints with Node.js to fetch live flight prices and data.
+- **[Gemini](https://gemini.google.com/app)** - *React, Appwrite, Tailwind, OAuth, Context API*
+  - Developed a high-accuracy replica of Google Gemini. The project includes user authentication, real-time responses from the Gemini API, and a feature to save user search history.
+
+- **[ShopStream](https://shopstream-by-kunaltajne.vercel.app/)** - *JavaScript, React, Java, Spring Boot, Redux Toolkit, Tailwind, Stripe*
+  - A full-stack e-commerce web application. Enhanced backend with Spring Boot and frontend using React and Tailwind CSS. Implemented Redux for state management and JWT for secure authentication.
+
+- **[DoneDash](https://donedash.vercel.app/)** - *React, Next.js, TypeScript, MongoDB, Tailwind*
+  - DoneDash is a full-stack note-taking application designed to streamline task management. Built with React, Next.js, and Tailwind CSS, it leverages MongoDB for data storage. Add, Edit, Delete, Categorize and Search notes with ease.
+
+
+### 🚀 Skills
+- TypeScript | JavaScript | C++ | Java
+- React | Next.js | React Native | Node | Spring Boot
+- RTK | Expo | RESTful APIs | MySQL | MongoDB | Tailwind CSS
+
+### 💬 About Me
+Software Developer Engineer pursuing a Master’s degree in Computer Science with 1.8 years of Full Stack Development experience. Skilled in TypeScript, React, Next.js, Java, Spring Boot, RESTful API, and Redux Toolkit, I focus on creating efficient systems.
+
+At Persistent Systems, I developed a high-performance web app for a supply chain company using React and JavaScript, reducing load time by 38% and improving the Lighthouse score from 76 to 94. I enhanced state management efficiency by 30%, reduced invalid form submissions by 80%, and migrated from CSS Modules to Tailwind CSS, reducing bundle size by 40%. I also optimized performance, cutting wasted renders by 45%.
+
+As an intern at Persistent Systems, I developed scalable RESTful APIs using Spring Boot and Java, integrated Hibernate ORM, and implemented authentication and authorization with Spring Security. I ensured code reliability through unit and integration testing and participated in Agile development.
+
+With a deep understanding of both front-end and back-end technologies, I excel in creating efficient, scalable web applications and value collaboration and teamwork to deliver exceptional results.
+
+
+
+
+
+### 📫 How to reach me:
+- kunaltajne.contact@gmail.com
+
+### Current Updates
+
+- 🔭 I’m currently working on Creating Full Stack Applications.
+- 🌱 I’m currently learning trending technologies.
+- 👯 I’m looking to collaborate on something in backend or frontend or generally anything with development.
+- 💬 Ask me about tech :)
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I also love blogging and SEO Optimization.
+
+
+Let's embark on an exciting journey together and create remarkable software solutions that drive business success and enhance user experiences.
+
+<!--
+**kunal-tajne/kunal-tajne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
