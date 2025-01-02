@@ -5,9 +5,7 @@
 
 <div align="center">
   <p><img src="https://github-profile-trophy.vercel.app/?username=kt-git-init&title=Commits,Experience&column=2" /></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kt-git-init&" alt="kt-git-init" />  </p>
-   <p><img src="https://www.gitch.art/share/kt-git-init?color=4682B4" alt="kt-git-init" />  </p>
-  
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kt-git-init&" alt="kt-git-init" />  </p>  
 </div>
 
 ### 👨🏻‍💻 Recent Projects
