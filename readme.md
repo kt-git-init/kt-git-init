@@ -29,75 +29,75 @@
 - React | Next.js | React Native | Node | Spring Boot
 - RTK | Expo | RESTful APIs | MySQL | MongoDB | Tailwind CSS
 
-### Technologies
+  ### Technologies
 
-<div style="text-align: center; padding: 20px;">
-  <table align="center" style="margin: 0 auto; border-spacing: 10px; background-color: #ffffff; border-radius: 15px; overflow: hidden; padding: 15px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+<div align="center" style="background-color: #ffffff; border-radius: 15px; padding: 20px; display: inline-block;">
+  <table>
     <tr>
       <td align="center" style="padding: 10px;">
-        <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <a href="https://www.java.com" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
         </a>
       </td>
       <td align="center" style="padding: 10px;">
-        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <a href="https://www.w3schools.com/cpp/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
         </a>
       </td>
       <td align="center" style="padding: 10px;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
         </a>
       </td>
       <td align="center" style="padding: 10px;">
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <a href="https://www.typescriptlang.org/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
         </a>
       </td>
       <td align="center" style="padding: 10px;">
-        <a href="https://spring.io/" target="_blank" rel="noreferrer">
+        <a href="https://spring.io/" target="_blank">
           <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
         </a>
       </td>
       <td align="center" style="padding: 10px;">
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <a href="https://reactjs.org/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
         </a>
       </td>
       <td align="center" style="padding: 10px;">
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <a href="https://nodejs.org" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
         </a>
       </td>
       <td align="center" style="padding: 10px;">
-        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <a href="https://aws.amazon.com" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
         </a>
       </td>
       <td align="center" style="padding: 10px;">
-        <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+        <a href="https://www.chartjs.org" target="_blank">
           <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />
         </a>
       </td>
       <td align="center" style="padding: 10px;">
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <a href="https://www.w3schools.com/css/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
         </a>
       </td>
       <td align="center" style="padding: 10px;">
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <a href="https://www.docker.com/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
         </a>
       </td>
       <td align="center" style="padding: 10px;">
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <a href="https://expressjs.com" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
         </a>
       </td>
     </tr>
-    <!-- Add more rows below as needed -->
   </table>
 </div>
+
 
 
 <div align="center" style="text-align: center;">
