@@ -204,7 +204,7 @@ Software Developer Engineer pursuing a Master’s degree in Computer Science wit
 
 As Software Engineer at <a href="https://www.persistent.com/" target="_blank">Persistent Systems</a>, I engineered a high-performance web application for a supply chain company, leveraging React and Spring Boot. Optimized load times by 38% and boosted the Lighthouse score from 76 to 94. Improved state management efficiency by 30%, reduced invalid form submissions by 80% with robust validation, and transitioned from CSS Modules to Tailwind CSS, cutting bundle size by 40%. Performance optimizations, including useMemo and useCallback, reduced wasted renders by 45%.
 
-During my time as an Software Engineer Intern at the same company, I developed scalable RESTful APIs using Spring Boot and Java, integrated Hibernate ORM, and implemented authentication and authorization with Spring Security. I ensured code reliability through unit and integration testing and participated in Agile development.
+During my time as an Software Engineer Intern at the same company, I developed scalable RESTful APIs using Spring Boot and Java, integrated Hibernate ORM, and implemented authentication and authorization with Spring Security. I ensured code reliability through unit and integration testing and participated in Agile development. This enabled our systems to handle up to 10,000 requests per day. I designed and integrated API endpoints with MongoDB aggregation pipelines, improving data retrieval efficiency by 30%.
 
 With a deep understanding of both front-end and back-end technologies, I excel in creating efficient, scalable web applications and value collaboration and teamwork to deliver exceptional results.
 
