@@ -1,4 +1,5 @@
 ## Hello, Fellow Explorer 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kt-git-init&label=Profile%20views&color=0e75b6&style=flat" alt="kt-git-init" /> </p>
 
 <p>Driven by a passion for continuous learning, I am currently pursuing a Master's degree in Computer Science (May 2025), further enhancing my knowledge and staying up-to-date with the latest industry trends. My expertise lies in designing and building web and mobile applications that facilitate seamless user experiences and meet the demanding requirements of enterprise applications.</p>
 
@@ -225,8 +226,6 @@ kunaltajne.contact@gmail.com
 
 
 Let's embark on an exciting journey together and create remarkable software solutions that drive business success and enhance user experiences.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kt-git-init&label=Profile%20views&color=0e75b6&style=flat" alt="kt-git-init" /> </p>
 <!--
 **kunal-tajne/kunal-tajne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
