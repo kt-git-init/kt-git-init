@@ -202,7 +202,7 @@
 ### 💬 About Me
 Software Developer Engineer pursuing a Master’s degree in Computer Science with 1.8 years of Full Stack Development experience. Skilled in TypeScript, React, Next.js, Java, Spring Boot, RESTful API, and Redux Toolkit, I focus on creating efficient systems.
 
-At <a href ="https://www.persistent.com/" target="blank" Persistent Systems </a>, I engineered a high-performance web application for a supply chain company, leveraging React and Spring Boot. Optimized load times by 38% and boosted the Lighthouse score from 76 to 94. Improved state management efficiency by 30%, reduced invalid form submissions by 80% with robust validation, and transitioned from CSS Modules to Tailwind CSS, cutting bundle size by 40%. Performance optimizations, including useMemo and useCallback, reduced wasted renders by 45%.
+At  <a href="https://www.persistent.com/" target="_blank">Persistent Systems</a>, I engineered a high-performance web application for a supply chain company, leveraging React and Spring Boot. Optimized load times by 38% and boosted the Lighthouse score from 76 to 94. Improved state management efficiency by 30%, reduced invalid form submissions by 80% with robust validation, and transitioned from CSS Modules to Tailwind CSS, cutting bundle size by 40%. Performance optimizations, including useMemo and useCallback, reduced wasted renders by 45%.
 
 As an intern at Persistent Systems, I developed scalable RESTful APIs using Spring Boot and Java, integrated Hibernate ORM, and implemented authentication and authorization with Spring Security. I ensured code reliability through unit and integration testing and participated in Agile development.
 
