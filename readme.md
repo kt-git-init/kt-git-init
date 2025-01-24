@@ -13,7 +13,7 @@
 - **[MockWiz](https://mockwiz.live)** - *React, Next.js, TypeScript, Drizzle, Neon PostgreSQL*
   - Developed an AI powered interview preparation tool using React, Next.js, and TypeScript. Provided a highly interactive dashboard for tracking previous interview feedback and statistics.
 - **[ChatGPT PDF](https://chromewebstore.google.com/detail/chatgpt-pdf-saver/dmlaldcdniomijdemigppfldkdahphib)** - *React, Next.js, TypeScript*
-  - Built a Web Broswer extension to convert ChatGPT chats to PDF in one single click.
+  - Built a Web Broswer extension to convert ChatGPT chats to PDF in one single click having 6000+ downloads.
 - **[TripEase](https://appetize.io/app/b_2sut7tyyigrdwudpa3blpjvttq?device=pixel8pro&osVersion=14.0&scale=85)** - *React Native, Expo, Firebase, Node, TypeScript*
   - Built an AI travel planner mobile app providing users with live flight details, hotel prices, and day-to-day itineraries. Exposed API endpoints with Node.js to fetch live flight prices and data.
 - **[Gemini](https://gemini.google.com/app)** - *React, Appwrite, Tailwind, OAuth, Context API*
