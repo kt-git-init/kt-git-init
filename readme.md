@@ -9,20 +9,21 @@
 </div>
 
 ### 👨🏻‍💻 Recent Projects
-
-- **[MockWiz](https://mockwiz.live)** - *React, Next.js, TypeScript, Drizzle, Neon PostgreSQL*
+- **[JustLike5](https://justlike5.kunaltajne.com/)** - *Python, Meta Llama, Hugging Face, Langchain, FastAPI, Pinecone*
+  - Fine Tuned Meta Llama 3.1-8 Billion on 1.9M+ posts and 19M+ comments from Reddit’s r/explainlikeimfive, to explain complex ideas like I’m five!
+- **[MockWiz](https://mockwiz.kunaltajne.com/)** - *React, Next.js, TypeScript, Drizzle, Neon PostgreSQL*
   - Developed an AI powered interview preparation tool using React, Next.js, and TypeScript. Provided a highly interactive dashboard for tracking previous interview feedback and statistics.
 - **[ChatGPT PDF](https://chromewebstore.google.com/detail/chatgpt-pdf-saver/dmlaldcdniomijdemigppfldkdahphib)** - *React, Next.js, TypeScript*
   - Built a Web Broswer extension to convert ChatGPT chats to PDF in one single click having 6000+ downloads.
 - **[TripEase](https://appetize.io/app/b_2sut7tyyigrdwudpa3blpjvttq?device=pixel8pro&osVersion=14.0&scale=85)** - *React Native, Expo, Firebase, Node, TypeScript*
   - Built an AI travel planner mobile app providing users with live flight details, hotel prices, and day-to-day itineraries. Exposed API endpoints with Node.js to fetch live flight prices and data.
-- **[Gemini](https://gemini.google.com/app)** - *React, Appwrite, Tailwind, OAuth, Context API*
+- **[Gemini](https://gemini.kunaltajne.com/)** - *React, Appwrite, Tailwind, OAuth, Context API*
   - Developed a high-accuracy replica of Google Gemini. The project includes user authentication, real-time responses from the Gemini API, and a feature to save user search history.
 
-- **[ShopStream](https://shopstream-by-kunaltajne.vercel.app/)** - *JavaScript, React, Java, Spring Boot, Redux Toolkit, Tailwind, Stripe*
+- **[ShopStream](https://shopstream.kunaltajne.com/)** - *JavaScript, React, Java, Spring Boot, Redux Toolkit, Tailwind, Stripe*
   - A full-stack e-commerce web application. Enhanced backend with Spring Boot and frontend using React and Tailwind CSS. Implemented Redux for state management and JWT for secure authentication.
 
-- **[DoneDash](https://donedash.vercel.app/)** - *React, Next.js, TypeScript, MongoDB, Tailwind*
+- **[DoneDash](https://donedash.kunaltajne.com/)** - *React, Next.js, TypeScript, MongoDB, Tailwind*
   - DoneDash is a full-stack note-taking application designed to streamline task management. Built with React, Next.js, and Tailwind CSS, it leverages MongoDB for data storage. Add, Edit, Delete, Categorize and Search notes with ease.
 
 ### 💬 About Me
