@@ -27,18 +27,18 @@
   - DoneDash is a full-stack note-taking application designed to streamline task management. Built with React, Next.js, and Tailwind CSS, it leverages MongoDB for data storage. Add, Edit, Delete, Categorize and Search notes with ease.
 
 ### 💬 About Me
-Software Developer Engineer pursuing a Master’s degree in Computer Science with 1.8 years of Full Stack Development experience. Skilled in TypeScript, React, Next.js, Java, Spring Boot, RESTful API, and Redux Toolkit, I focus on creating efficient systems.
+Software Development Engineer pursuing a Master’s degree in Computer Science with 1.8 years of Full Stack Development experience. Skilled in TypeScript, React, Next.js, Java, Spring Boot, RESTful API, and Redux Toolkit, I focus on creating efficient systems.
 
-As Software Engineer at <a href="https://www.persistent.com/" target="_blank">Persistent Systems</a>, I engineered a high-performance web application for a supply chain company, leveraging React and Spring Boot. Optimized load times by 38% and boosted the Lighthouse score from 76 to 94. Improved state management efficiency by 30%, reduced invalid form submissions by 80% with robust validation, and transitioned from CSS Modules to Tailwind CSS, cutting bundle size by 40%. Performance optimizations, including useMemo and useCallback, reduced wasted renders by 45%.
+As a AI Engineer Intern at [Context Learn](https://context-learn.com/), I developed scalable AI infrastructure and real-time RAG services using LangChain and Pinecone, optimized API response times from 2s to 200ms, and integrated an AI-powered voice assistant built with OpenAI’s Whisper and GPT models—facilitating over 20,000 personalized onboarding sessions with 99% API reliability.
 
-During my time as an Software Engineer Intern at the same company, I developed scalable RESTful APIs using Spring Boot and Java, integrated Hibernate ORM, and implemented authentication and authorization with Spring Security. I ensured code reliability through unit and integration testing and participated in Agile development. This enabled our systems to handle up to 10,000 requests per day. I designed and integrated API endpoints with MongoDB aggregation pipelines, improving data retrieval efficiency by 30%.
+As a Software Engineer at [Persistent Systems](https://www.persistent.com/), I engineered a high-performance web application for a supply chain company, leveraging React and Spring Boot. Optimized load times by 38% and boosted the Lighthouse score from 76 to 94. Improved state management efficiency by 30%, reduced invalid form submissions by 80% with robust validation, and transitioned from CSS Modules to Tailwind CSS, cutting bundle size by 40%. Performance optimizations, including useMemo and useCallback, reduced wasted renders by 45%.
 
-With a deep understanding of both front-end and back-end technologies, I excel in creating efficient, scalable web applications and value collaboration and teamwork to deliver exceptional results.
+During my time as a Software Engineer Intern at the same company, I developed scalable RESTful APIs using Spring Boot and Java, integrated Hibernate ORM, and implemented authentication and authorization with Spring Security. I ensured code reliability through unit and integration testing and participated in Agile development—enabling our systems to handle up to 10,000 requests per day. I designed and integrated API endpoints with MongoDB aggregation pipelines, improving data retrieval efficiency by 30%.
 
 ### 🚀 Languages and Tools
-- TypeScript | JavaScript | C++ | Java
-- React | Next.js | React Native | Node | Spring Boot
-- RTK | Expo | RESTful APIs | MySQL | MongoDB | Tailwind CSS
+- Java | Python | TypeScript | JavaScript | C++
+- React | Langchain | Hugging Face |  Next.js | React Native | Node | Spring Boot
+- Pinecone | RTK | Expo | RESTful APIs | MySQL | MongoDB | Tailwind CSS
 
 <table align="center">
   <tr>
