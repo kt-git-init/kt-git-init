@@ -33,7 +33,7 @@ As a AI Engineer Intern at [Context Learn](https://context-learn.com/), I develo
 
 As a Software Engineer at [Persistent Systems](https://www.persistent.com/), I engineered a high-performance web application for a supply chain company, leveraging React and Spring Boot. Optimized load times by 38% and boosted the Lighthouse score from 76 to 94. Improved state management efficiency by 30%, reduced invalid form submissions by 80% with robust validation, and transitioned from CSS Modules to Tailwind CSS, cutting bundle size by 40%. Performance optimizations, including useMemo and useCallback, reduced wasted renders by 45%.
 
-During my time as a Software Engineer Intern at the same company, I developed scalable RESTful APIs using Spring Boot and Java, integrated Hibernate ORM, and implemented authentication and authorization with Spring Security. I ensured code reliability through unit and integration testing and participated in Agile development—enabling our systems to handle up to 10,000 requests per day. I designed and integrated API endpoints with MongoDB aggregation pipelines, improving data retrieval efficiency by 30%.
+During my time as a Software Engineer Intern at the same company, I developed scalable RESTful APIs using Spring Boot and Java, integrated Hibernate ORM, and implemented authentication and authorization with Spring Security. I ensured code reliability through unit and integration testing and participated in Agile development enabling our systems to handle up to 10,000 requests per day. I designed and integrated API endpoints with MongoDB aggregation pipelines, improving data retrieval efficiency by 30%.
 
 ### 🚀 Languages and Tools
 - Java | Python | TypeScript | JavaScript | C++
