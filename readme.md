@@ -1,7 +1,7 @@
 ## Hello, Fellow Explorer 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kt-git-init&label=Profile%20views&color=0e75b6&style=flat" alt="kt-git-init" /> </p>
 
-<p>Driven by a passion for continuous learning, I am currently pursuing a Master's degree in Computer Science (May 2025), further enhancing my knowledge and staying up-to-date with the latest industry trends. My expertise lies in designing and building web and mobile applications that facilitate seamless user experiences and meet the demanding requirements of enterprise applications.</p>
+<p>Driven by a passion for continuous learning and enhancing my knowledge to stay up-to-date with the latest industry trends. My expertise lies in designing and building AI based applications that facilitate seamless user experiences and meet the demanding requirements of enterprise applications.</p>
 
 <div align="center">
   <p><img src="https://github-profile-trophy.vercel.app/?username=kt-git-init&title=Commits,Experience&column=2" /></p>
@@ -27,9 +27,9 @@
   - DoneDash is a full-stack note-taking application designed to streamline task management. Built with React, Next.js, and Tailwind CSS, it leverages MongoDB for data storage. Add, Edit, Delete, Categorize and Search notes with ease.
 
 ### 💬 About Me
-Software Development Engineer pursuing a Master’s degree in Computer Science with 1.8 years of Full Stack Development experience. Skilled in TypeScript, React, Next.js, Java, Spring Boot, RESTful API, and Redux Toolkit, I focus on creating efficient systems.
+Software Engineer with almost 2 years of Full Stack Development experience :
 
-As a AI Engineer Intern at [Context Learn](https://context-learn.com/), I developed scalable AI infrastructure and real-time RAG services using LangChain and Pinecone, optimized API response times from 2s to 200ms, and integrated an AI-powered voice assistant built with OpenAI’s Whisper and GPT models—facilitating over 20,000 personalized onboarding sessions with 99% API reliability.
+As a AI Engineer Intern at [Context Learn](https://context-learn.com/), I developed scalable AI infrastructure and real-time RAG services using LangChain and Pinecone, optimized API response times from 2s to 200ms, and integrated an AI-powered voice assistant built with OpenAI’s Whisper and GPT models facilitating over 20,000+ personalized onboarding sessions with 99% API reliability.
 
 As a Software Engineer at [Persistent Systems](https://www.persistent.com/), I engineered a high-performance web application for a supply chain company, leveraging React and Spring Boot. Optimized load times by 38% and boosted the Lighthouse score from 76 to 94. Improved state management efficiency by 30%, reduced invalid form submissions by 80% with robust validation, and transitioned from CSS Modules to Tailwind CSS, cutting bundle size by 40%. Performance optimizations, including useMemo and useCallback, reduced wasted renders by 45%.
 
