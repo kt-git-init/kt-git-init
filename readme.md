@@ -1,7 +1,7 @@
 ## Hello, Fellow Explorer 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kt-git-init&label=Profile%20views&color=0e75b6&style=flat" alt="kt-git-init" /> </p>
 
-<p>Driven by a passion for continuous learning and enhancing my knowledge to stay up-to-date with the latest industry trends. My expertise lies in designing and building AI based applications that facilitate seamless user experiences and meet the demanding requirements of enterprise applications.</p>
+<p>Driven by a passion for continuous learning and enhancing my knowledge to stay up-to-date with the latest industry trends. My expertise lies in designing and building Full Stack and AI based applications that facilitate seamless user experiences and meet the demanding requirements of enterprise applications.</p>
 
 <div align="center">
   <p><img src="https://github-profile-trophy.vercel.app/?username=kt-git-init&title=Commits,Experience&column=2" /></p>
